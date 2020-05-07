@@ -68,6 +68,3 @@ With VSCode debug instructions:
 [Debugging Node.js apps in TypeScript with Visual Studio Code](https://fettblog.eu/typescript-node-visual-studio-code)
 
 [How to Debug Nodejs, TypeScript Code in VSCode](https://dev.to/macmacky/how-to-debug-nodejs-typescript-code-in-vscode-4o27)
-
-sdfsdfsd
-
