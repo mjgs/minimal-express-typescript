@@ -45,30 +45,29 @@ Browse to http://localhost:3000 and http://localhost:3000/users/:user
 
 ## Credits
 
-I got a lot of information neded for this setup from several different articles:
+I got a lot of information for this setup from several different articles:
 
 General express / typescript articles:
 
-https://github.com/TypeStrong/ts-node
+[Use TypeScript to Build a Node API with Express](https://developer.okta.com/blog/2018/11/15/node-express-typescript)
 
-https://github.com/Enterprise-JS/vscode-ts-node-debugging
+[TypeScript Express tutorial](https://wanago.io/2018/12/03/typescript-express-tutorial-routing-controllers-middleware)
 
-https://developer.okta.com/blog/2018/11/15/node-express-typescript
+[How (and why) you should use TypeScript with Node and Express.](https://medium.com/javascript-in-plain-english/typescript-with-node-and-express-js-why-when-and-how-eb6bc73edd5d)
 
-https://wanago.io/2018/12/03/typescript-express-tutorial-routing-controllers-middleware/
+[How to set up an Express.js API using Webpack and TypeScript.](https://medium.com/the-andela-way/how-to-set-up-an-express-api-using-webpack-and-typescript-69d18c8c4f52)
 
-https://medium.com/javascript-in-plain-english/typescript-with-node-and-express-js-why-when-and-how-eb6bc73edd5d
-
-https://medium.com/the-andela-way/how-to-set-up-an-express-api-using-webpack-and-typescript-69d18c8c4f52
-
-http://www.cross-platform-blog.com/tools/nodejs/typescript/visual-studio-code-nodejs-with-typescript-and-debugging/
-
-https://medium.com/create-a-server-with-nodemon-express-typescript/create-a-server-with-nodemon-express-typescript-f7c88fb5ee71
+[Create a server with Nodemon + Express + Typescript](https://medium.com/create-a-server-with-nodemon-express-typescript/create-a-server-with-nodemon-express-typescript-f7c88fb5ee71)
 
 With VSCode debug instructions:
 
-https://medium.com/@dupski/debug-typescript-in-vs-code-without-compiling-using-ts-node-9d1f4f9a94a
+[Visual Studio Code: Node.js with TypeScript and Debugging](http://www.cross-platform-blog.com/tools/nodejs/typescript/visual-studio-code-nodejs-with-typescript-and-debugging)
 
-https://fettblog.eu/typescript-node-visual-studio-code/
+[Debugging TypeScript in VS Code without compiling, using ts-node](https://medium.com/@dupski/debug-typescript-in-vs-code-without-compiling-using-ts-node-9d1f4f9a94a)
 
-https://dev.to/macmacky/how-to-debug-nodejs-typescript-code-in-vscode-4o27
+[Debugging Node.js apps in TypeScript with Visual Studio Code](https://fettblog.eu/typescript-node-visual-studio-code)
+
+[How to Debug Nodejs, TypeScript Code in VSCode](https://dev.to/macmacky/how-to-debug-nodejs-typescript-code-in-vscode-4o27)
+
+sdfsdfsd
+
