@@ -1,6 +1,6 @@
 # minimal-express-typescript
 
-Minimal express app written in typescript that includes npm scripts to lint, compile and copy assets to dist direcotry and the ability to run the app in the vscode debugger.
+Minimal express app written in typescript that includes npm scripts to lint, compile and copy assets to dist directory and the ability to run the app in the vscode debugger.
 
 ## Setup
 
